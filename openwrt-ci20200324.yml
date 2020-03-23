@@ -166,6 +166,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-vlmcsd=y
           CONFIG_PACKAGE_luci-app-wol=y
           CONFIG_PACKAGE_luci-app-smartinfo=y
+          CONFIG_PACKAGE_luci-app-diskman=y
           EOF
 
           # LuCI主题:
